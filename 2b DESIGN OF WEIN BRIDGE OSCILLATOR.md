@@ -26,6 +26,8 @@
 
 # Sample images 
 
+![2 b Exp](https://github.com/user-attachments/assets/3ce641aa-903d-4c87-bbd4-ed3841bfd3fc)
+
 
 
 ## Result
