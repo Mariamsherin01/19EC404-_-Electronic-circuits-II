@@ -22,6 +22,8 @@
 
 ## Sample images 
 
+![1 A exp](https://github.com/user-attachments/assets/e0c5c41b-dc9b-4118-9a71-547048176d82)
+
 
 ## **Result**
 Thus, the **voltage series feedback amplifier** is designed and constructed.  
