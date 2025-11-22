@@ -22,6 +22,8 @@
 
 # Sample images 
 
+![5 Exp](https://github.com/user-attachments/assets/7e8d7146-5a6b-40a6-b21d-022bed198b87)
+
 
 # Result
 Thus different clamper circuits are studied and their output waveforms are plotted.
