@@ -23,6 +23,8 @@
 
 # Sample images 
 
+![3 a Exp](https://github.com/user-attachments/assets/9721b6ea-9985-4232-8103-0b074acbd6ff)
+
 
 # Result
 
