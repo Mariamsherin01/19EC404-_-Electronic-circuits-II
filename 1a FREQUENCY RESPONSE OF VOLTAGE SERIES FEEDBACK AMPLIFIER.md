@@ -13,12 +13,16 @@
 <img width="617" height="393" alt="image" src="https://github.com/user-attachments/assets/77ad03ce-ee9e-4a7e-950b-eeaad0aaa300" />
 
 ## Tabulation
+<img width="900" height="1189" alt="image" src="https://github.com/user-attachments/assets/0595beba-72ac-4c91-b201-0fca04f5fcec" />
 
 
 ## Graph
+![WhatsApp Image 2025-11-22 at 12 07 23_b5112ca2](https://github.com/user-attachments/assets/9e77aee3-d372-4b5f-a538-383df64fc56a)
+
 
 
 ## Sample images 
+![1 A exp](https://github.com/user-attachments/assets/63556d8f-a2f1-4581-922c-a47bb4a93e6c)
 
 
 ## **Result**
@@ -27,11 +31,11 @@ The following parameters are calculated:
 
 | S.No | Parameters | Without Feedback | With Feedback |
 |:----:|-------------|:----------------:|:--------------:|
-| 1 | Lower cut-off frequency | = | = |
-| 2 | Upper cut-off frequency | = | = |
-| 3 | Bandwidth | \( BW = fh - fl = \) | \( BW = f'h - f'l = \) |
-| 4 | Mid-band Gain | \( A{v(mid)} = \) | \( A'{v(mid)} = \) |
-| 5 | Gain at half power point |  |  |
+| 1 | Lower cut-off frequency | = 100Mhz| = 100Mhz|
+| 2 | Upper cut-off frequency | =3Mhz | =1Mhz |
+| 3 | Bandwidth | \( BW = fh - fl = 2.9999\) | \( BW = f'h - f'l = 0.9999\) |
+| 4 | Mid-band Gain | \( A{v(mid)} = 26.dB\) | \( A'{v(mid)} = 25.5dB\) |
+| 5 | Gain at half power point | 23.5dB |22.5dB  |
 ---
 **Conclusion:**  
 The frequency response of the voltage-series feedback amplifier was studied. It was observed that the **gain decreases** while the **bandwidth increases** when negative feedback is applied, confirming the theoretical expectations.
