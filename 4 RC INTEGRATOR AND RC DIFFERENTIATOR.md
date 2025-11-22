@@ -30,6 +30,8 @@
 
 # Sample images 
 
+![4 Exp](https://github.com/user-attachments/assets/e0ef7245-9a3e-4518-81fb-f16e20f1604f)
+
 
 # Result
 Thus, The different linear wave shaping circuits are studied and their output waveforms are plotted.
