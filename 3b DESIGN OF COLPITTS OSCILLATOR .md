@@ -22,6 +22,8 @@
 
 # Sample images 
 
+![3 b Exp](https://github.com/user-attachments/assets/b6ff24dc-d455-487d-b7e7-cd6591d1bf45)
+
 
 # Result
 
