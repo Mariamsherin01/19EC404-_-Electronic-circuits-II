@@ -1,5 +1,5 @@
 ## Exp. No. 1(b)
-**Date:**  
+**Date:**  16/08/2025
 
 ## FREQUECNY RESPONSE OF VOLTAGE SHUNT FEEDBACK AMPLIFIER
 <img width="822" height="889" alt="image" src="https://github.com/user-attachments/assets/a1f70018-04e2-4b1d-8a91-695ddb6af202" />
@@ -30,11 +30,11 @@
 Thus the voltage shunt feedback amplifier is designed and constructed  and the following parameters are calculated.
 | S.No | Parameters | Without Feedback | With Feedback |
 |:----:|-------------|:----------------:|:--------------:|
-| 1 | Lower cut-off frequency | = | = |
-| 2 | Upper cut-off frequency | = | = |
-| 3 | Bandwidth | \( BW = fh - fl = \) | \( BW = f'h - f'l = \) |
-| 4 | Mid-band Gain | \( A{v(mid)} = \) | \( A'{v(mid)} = \) |
-| 5 | Gain at half power point |  |  |
+| 1 | Lower cut-off frequency | = 50 Hz | = 100 Hz |
+| 2 | Upper cut-off frequency | = 700 KHz | = 900 KHz |
+| 3 | Bandwidth | \( BW = fh - fl = 700 KHz \) | \( BW = f'h - f'l = 900 KHz \) |
+| 4 | Mid-band Gain | \( A{v(mid)} = 16.70 db \) | \( A'{v(mid)} = 14.32 db \) |
+| 5 | Gain at half power point | 13.70 db  | 11.32 db |
 
 ---
 
