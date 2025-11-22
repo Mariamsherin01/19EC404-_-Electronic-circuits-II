@@ -1,6 +1,6 @@
 ## Exp. No. 2(a)
 **Date:**  
-
+ 
 ## DESIGN OF RC PHASE SHIFT OSCILLATOR
 <img width="482" height="638" alt="image" src="https://github.com/user-attachments/assets/d7a08edc-71f1-467d-9e20-747bdeee319d" />
 <img width="402" height="680" alt="image" src="https://github.com/user-attachments/assets/3c9afd81-9c22-4fce-b988-3a1ba4a59f73" />
